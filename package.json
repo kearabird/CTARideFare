@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest",
+    "exact-change": "run-func app.js main"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "run-func": "3.0.0"
+  }
+}
